@@ -20,6 +20,14 @@ p, li, a {
     letter-spacing: 1px;
 }
 
+a:link {
+    color: lightgrey;
+}
+
+a:visited {
+    color: yellow;
+}
+
 img {
     border: 1px solid gray;
     display: block;
